@@ -1,4 +1,4 @@
-# mijn-website
+
 
 <!DOCTYPE html>
 <html>
@@ -16,13 +16,14 @@ h1 {
 p {
     font-family: verdana;
     font-size: 20px;
+    color: white;
 }
 </style>
 </head>
 <body>
 
 <h1>Mijn website</h1>
-<p>Over mij</p>
+<p>Ik ben roos, ik ben 15 jaar en ik woon op ijburg. </p>
 
 </body>
 </html>
