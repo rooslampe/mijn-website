@@ -13,7 +13,7 @@ h1 {
 
 p {
     font-family: verdana;
-    font-size: 17px;
+    font-size: 15px;
     color: white;
 }
 </style>
