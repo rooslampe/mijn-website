@@ -27,7 +27,7 @@ p {
 
 
 
-<a href="readme.ms"> mijn 2de website </a>
+<a href="readme.md"> mijn 2de website </a>
 
 </body>
 </html>
