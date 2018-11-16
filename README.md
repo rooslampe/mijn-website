@@ -22,7 +22,7 @@ p {
 <body>
 
 <h1>Over mij</h1>
-<p>Ik ben roos, ik ben 15 jaar en ik woon op ijburg. Ik zit op het MLA in 4V6. Ik woon samen met mijn broertje en ouders. Mijn broertje heet Stijn, hij is 13 jaar en hij zit op het Pieternieuwland college.Ik heb ook nog een kat, zijn naam is Gijs.</p>
+<p>Ik ben roos, ik ben 15 jaar en ik woon op ijburg. Ik zit op het MLA in 4V6. Ik woon samen met mijn broertje en ouders. Mijn broertje heet Stijn, hij is 13 jaar en hij zit op het Pieternieuwland college. Mijn ouders heten Maartje en Marcel.Ik heb ook nog een kat, zijn naam is Gijs.</p>
 
 
 
